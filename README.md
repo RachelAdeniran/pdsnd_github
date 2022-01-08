@@ -2,15 +2,22 @@
 
 ### Date created
 Include the date you created this project and README file.
+This project was created on the 
+08/01/2022
 
 ### Project Title
 Replace the Project Title
+Bikeshare data exploration
 
 ### Description
 Describe what your project is about and what it does
+This project is about the exploration of data on bike sharing across three popular cities in the United States: Chicago, New york city and Washington. It provides an interactive interface where the outcome depends greatly on the answers provided by the user. The script goes ahead to provide statistics on the popula times of travel, popular stations and trips, trip durations and user info
 
 ### Files used
 Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
