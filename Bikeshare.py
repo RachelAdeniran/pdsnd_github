@@ -42,7 +42,7 @@ def get_filters():
             print('Invalid, enter another month: ')
             
 
-    #get user input for day of week (all, monday, tuesday, ... sunday)
+    #get user input for day of week (all, monday, tuesday, wednesday, thursday, friday, saturday, sunday)
     while True:
         day = input("Enter a day of the week or 'all' for all the days: ")
         day = day.lower()
