@@ -29,7 +29,7 @@ def get_filters():
         if city in ['chicago', 'new york city', 'washington']:
             break
         else:
-            print('invalid, enter another city')
+            print('invalid city, enter another city')
             
 
     #get user input for month (all, january, february, ... , june)
