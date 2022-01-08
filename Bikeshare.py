@@ -32,7 +32,7 @@ def get_filters():
             print('invalid city, enter another city')
             
 
-    #get user input for month (all, january, february, ... , june)
+    #get user input for month (all, january, february, march, april, may, june)
     while True:
         month = input("Enter a month from the first six months of the year for a more specific result or 'all' for the whole months: ")
         month = month.lower()
